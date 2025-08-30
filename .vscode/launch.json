@@ -1,0 +1,18 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Executar Operadores Matemáticos",
+      "type": "cppdbg",
+      "request": "launch",
+      "program": "${workspaceFolder}/operadores",
+      "args": [],
+      "stopAtEntry": false,
+      "cwd": "${workspaceFolder}",
+      "environment": [],
+      "externalConsole": true,
+      "MIMode": "gdb",
+      "preLaunchTask": "Compilar e Executar"
+    }
+  ]
+}
